@@ -1,0 +1,16 @@
+- abrir programaticamente
+- que solo salga el next/prev si es un grupo y hay mas de 1 elemento
+- themable
+
+- eventos
+  - onImageLoadStart
+  - onOpenStart
+  - onOpenEnd
+  - onCloseStart
+  - onCloseEnd
+  - onNextStart
+  - onNextEnd
+  - onPrevStart
+  - onPrevEnd
+  
+- 
